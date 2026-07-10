@@ -123,6 +123,70 @@ Python Developer • AI/ML Enthusiast • Full Stack Developer
 
 ---
 
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nawazahammed2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazahammed2002&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nawazahammed2002&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nawazahammed2002&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nawazahammed2002&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+
+<img src="https://img.shields.io/badge/LeetCode-65%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+<a href="https://github.com/nawazahammed2002">
+
+<img src="https://img.shields.io/badge/GitHub-Active%20Developer-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+</div>
+
+---
+
 > ### 💡 "Great software isn't just written—it is engineered with purpose, curiosity, and continuous learning."
 
 ---
