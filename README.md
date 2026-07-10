@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋 I'm Nawaz Ahammed
 
-<!--
-**nawazahammed2002/nawazahammed2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student @ Atria Institute of Technology
 
-Here are some ideas to get you started:
+💻 Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI/ML Enthusiast
+
+🌐 Full Stack Developer
+
+---
+
+## 🚀 About Me
+
+- 🎓 MCA Student (2025–2027)
+- 💻 Python Developer
+- 🤖 AI/ML Enthusiast
+- 🌐 Full Stack Developer
+- 🧠 Solved **65+ LeetCode problems** in **Python & C**
+- 🚀 Building AI-powered applications
+- 📚 Currently learning Data Structures & Algorithms
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- C
+- JavaScript
+- HTML
+- CSS
+- SQL
+- MySQL
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+- 🚀 SkillForge AI
+- 💼 Employee Web Interface
+- 👴 Elders Seva
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: nawazahmedkhan@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/nawaz-ahammed-32b393135
