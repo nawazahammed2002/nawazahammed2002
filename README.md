@@ -16,7 +16,7 @@
 - 💻 Python Developer
 - 🤖 AI/ML Enthusiast
 - 🌐 Full Stack Developer
-- 🧠 Solved **65+ LeetCode problems** in **Python & C**
+- 🧠 Solved **65+ LeetCode problems** in using **Python & C**
 - 🚀 Building AI-powered applications
 - 📚 Currently learning Data Structures & Algorithms
 
