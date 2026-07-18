@@ -1,0 +1,89 @@
+<svg width="512" height="444" viewBox="0 0 512 444" role="img" aria-labelledby="trophyTitle trophyDesc" xmlns="http://www.w3.org/2000/svg">
+  <title id="trophyTitle">Achievements and recognition for Nawaz Ahammed</title>
+  <desc id="trophyDesc">Outstanding Performance (Tech Citi Technologies — Internship); Best Student of the Batch (BCA, 2022–2025); CGPA 8.89 / 10.0 (Bachelor of Computer Applications); Google Gemini Certified (Generative AI &amp; AI Fundamentals); Student Council President (200+ students, 2 academic years); Placement Coordinator (MCA Dept., Atria Institute of Technology).</desc>
+  <defs>
+    <linearGradient id="trophyBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#7EE787"/>
+    </linearGradient>
+    <linearGradient id="trophyBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="508" height="440" rx="18" fill="url(#trophyBg)" stroke="#30363D" stroke-width="1"/>
+  <rect x="2" y="2" width="508" height="440" rx="18" fill="none" stroke="url(#trophyBorder)" stroke-width="1.4" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="20" y="38" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#F0F6FC">Achievements &amp; Recognition</text>
+
+  
+  <g transform="translate(20,68)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.6s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="20,80" to="20,68" begin="0.1s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <rect width="236" height="108" rx="14" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <rect width="236" height="108" rx="14" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.25">
+      <animate attributeName="opacity" values="0.15;0.45;0.15" dur="3.5s" begin="0.1s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="42" font-size="26">🏆</text>
+    <text x="58" y="34" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#F0F6FC">Outstanding Performance</text>
+    <text x="58" y="54" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#8B949E">Tech Citi Technologies — Internship</text>
+  </g>
+  <g transform="translate(272,68)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.25s" dur="0.6s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="272,80" to="272,68" begin="0.25s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <rect width="236" height="108" rx="14" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <rect width="236" height="108" rx="14" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.25">
+      <animate attributeName="opacity" values="0.15;0.45;0.15" dur="3.5s" begin="0.25s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="42" font-size="26">🎓</text>
+    <text x="58" y="34" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#F0F6FC">Best Student of the Batch</text>
+    <text x="58" y="54" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#8B949E">BCA, 2022–2025</text>
+  </g>
+  <g transform="translate(20,192)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.6s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="20,204" to="20,192" begin="0.4s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <rect width="236" height="108" rx="14" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <rect width="236" height="108" rx="14" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.25">
+      <animate attributeName="opacity" values="0.15;0.45;0.15" dur="3.5s" begin="0.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="42" font-size="26">📊</text>
+    <text x="58" y="34" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#F0F6FC">CGPA 8.89 / 10.0</text>
+    <text x="58" y="54" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#8B949E">Bachelor of Computer Applications</text>
+  </g>
+  <g transform="translate(272,192)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.6s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="272,204" to="272,192" begin="0.55s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <rect width="236" height="108" rx="14" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <rect width="236" height="108" rx="14" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.25">
+      <animate attributeName="opacity" values="0.15;0.45;0.15" dur="3.5s" begin="0.55s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="42" font-size="26">🤖</text>
+    <text x="58" y="34" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#F0F6FC">Google Gemini Certified</text>
+    <text x="58" y="54" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#8B949E">Generative AI &amp; AI Fundamentals</text>
+  </g>
+  <g transform="translate(20,316)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.6s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="20,328" to="20,316" begin="0.7s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <rect width="236" height="108" rx="14" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <rect width="236" height="108" rx="14" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.25">
+      <animate attributeName="opacity" values="0.15;0.45;0.15" dur="3.5s" begin="0.7s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="42" font-size="26">🏛️</text>
+    <text x="58" y="34" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#F0F6FC">Student Council President</text>
+    <text x="58" y="54" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#8B949E">200+ students, 2 academic years</text>
+  </g>
+  <g transform="translate(272,316)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.85s" dur="0.6s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="272,328" to="272,316" begin="0.85s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <rect width="236" height="108" rx="14" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <rect width="236" height="108" rx="14" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.25">
+      <animate attributeName="opacity" values="0.15;0.45;0.15" dur="3.5s" begin="0.85s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="42" font-size="26">🧭</text>
+    <text x="58" y="34" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#F0F6FC">Placement Coordinator</text>
+    <text x="58" y="54" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#8B949E">MCA Dept., Atria Institute of Technology</text>
+  </g>
+</svg>

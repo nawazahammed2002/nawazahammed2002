@@ -1,0 +1,66 @@
+<svg width="480" height="300" viewBox="0 0 480 300" role="img" aria-labelledby="langTitle langDesc" xmlns="http://www.w3.org/2000/svg">
+  <title id="langTitle">Core tech stack for Nawaz Ahammed</title>
+  <desc id="langDesc">Skill categories: Programming Languages; AI / Machine Learning; Web Development; Database Management; Developer Tools; Core CS Concepts.</desc>
+  <defs>
+    <linearGradient id="langBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#7EE787"/>
+    </linearGradient>
+    <linearGradient id="langBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="476" height="296" rx="18" fill="url(#langBg)" stroke="#30363D" stroke-width="1"/>
+  <rect x="2" y="2" width="476" height="296" rx="18" fill="none" stroke="url(#langBorder)" stroke-width="1.4" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="36" y="42" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#F0F6FC">Core Tech Stack</text>
+  <line x1="36" y1="54" x2="444" y2="54" stroke="#21262D" stroke-width="1"/>
+
+  
+  <g transform="translate(36,78)">
+    <text x="0" y="0" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#C9D1D9">Programming Languages</text>
+    <rect x="0" y="10" width="300" height="8" rx="4" fill="#21262D"/>
+    <rect x="0" y="10" width="0" height="8" rx="4" fill="#58A6FF">
+      <animate attributeName="width" from="0" to="214" begin="0.15s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.3 1"/>
+    </rect>
+  </g>
+  <g transform="translate(36,112)">
+    <text x="0" y="0" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#C9D1D9">AI / Machine Learning</text>
+    <rect x="0" y="10" width="300" height="8" rx="4" fill="#21262D"/>
+    <rect x="0" y="10" width="0" height="8" rx="4" fill="#7EE787">
+      <animate attributeName="width" from="0" to="300" begin="0.3s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.3 1"/>
+    </rect>
+  </g>
+  <g transform="translate(36,146)">
+    <text x="0" y="0" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#C9D1D9">Web Development</text>
+    <rect x="0" y="10" width="300" height="8" rx="4" fill="#21262D"/>
+    <rect x="0" y="10" width="0" height="8" rx="4" fill="#F1E05A">
+      <animate attributeName="width" from="0" to="257" begin="0.45s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.3 1"/>
+    </rect>
+  </g>
+  <g transform="translate(36,180)">
+    <text x="0" y="0" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#C9D1D9">Database Management</text>
+    <rect x="0" y="10" width="300" height="8" rx="4" fill="#21262D"/>
+    <rect x="0" y="10" width="0" height="8" rx="4" fill="#D2A8FF">
+      <animate attributeName="width" from="0" to="257" begin="0.6s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.3 1"/>
+    </rect>
+  </g>
+  <g transform="translate(36,214)">
+    <text x="0" y="0" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#C9D1D9">Developer Tools</text>
+    <rect x="0" y="10" width="300" height="8" rx="4" fill="#21262D"/>
+    <rect x="0" y="10" width="0" height="8" rx="4" fill="#FFA657">
+      <animate attributeName="width" from="0" to="257" begin="0.75s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.3 1"/>
+    </rect>
+  </g>
+  <g transform="translate(36,248)">
+    <text x="0" y="0" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#C9D1D9">Core CS Concepts</text>
+    <rect x="0" y="10" width="300" height="8" rx="4" fill="#21262D"/>
+    <rect x="0" y="10" width="0" height="8" rx="4" fill="#FF7B72">
+      <animate attributeName="width" from="0" to="214" begin="0.9s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.3 1"/>
+    </rect>
+  </g>
+</svg>
